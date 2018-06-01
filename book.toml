@@ -1,5 +1,9 @@
 [book]
-authors = ["Clay Dunston"]
-multilingual = false
-src = "src"
 title = "Notes"
+authors = ["Clay Dunston"]
+src = "src"
+build-dir = "docs"
+multilingual = false
+# additional-js = ["custom.js"]
+# additional-css = ["custom.css", "custom2.css"]
+
