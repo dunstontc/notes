@@ -1,4 +1,4 @@
 # Notes
 
-- [Contents](./contents.md)
-- [Chapter 1](./chapter_1.md)
+- [Contents](./contents.html)
+- [Chapter 1](./chapter_1.html)
