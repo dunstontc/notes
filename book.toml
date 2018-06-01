@@ -1,0 +1,5 @@
+[book]
+authors = ["Clay Dunston"]
+multilingual = false
+src = "src"
+title = "Notes"
